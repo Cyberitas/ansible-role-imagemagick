@@ -1,0 +1,8 @@
+# roles/imagemagick/tasks/main.yml
+---
+- name: Install ImageMagick (CentOS)
+  yum:
+    name: ['ImageMagick']
+    state: latest
+  notify:
+    - restart apache

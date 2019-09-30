@@ -1,4 +1,4 @@
-Role Name
+Ansible Role: ImageMagick
 =========
 
 Ansible Role to install ImageMagick 

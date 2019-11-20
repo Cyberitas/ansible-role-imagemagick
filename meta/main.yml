@@ -1,6 +1,7 @@
 ---
 galaxy_info:
   author: James Dugger
+  role_name: imagemagick
   description: ImageMagick for Linux
   company: Cyberitas Technologies, LLC
   license: license (MIT)
